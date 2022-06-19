@@ -11,6 +11,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&show_icons=true&theme=gotham" alt="malivinayak" />
 
 <hr> 
- <!-- 
-<h1>Achievements:</h1>
- -->
+
