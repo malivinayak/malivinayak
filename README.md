@@ -8,7 +8,8 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&show_icons=true&count_private=true&theme=gotham"/>
  
 👨‍💻 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&show_icons=true&theme=gotham" alt="malivinayak" />
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&layout=compact&theme=gotham&langs_count=12" alt="malivinayak" />
+ 
+ 
 <hr> 
 
