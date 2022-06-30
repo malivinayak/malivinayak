@@ -14,5 +14,4 @@
 👨‍💻 Top Languages
 <hr> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&layout=compact&theme=moltack&langs_count=12&count_private=true" alt="malivinayak" />
  
- 
 <hr> 
