@@ -9,7 +9,7 @@
 | | |
 | :--: | :--: |
 | `github stats` | `streak-stats` |
-| <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&theme=moltack&count_private=true" alt="malivinayak" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&show_icons=true&count_private=true&theme=moltack"/> | 
+| <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&theme=moltack&count_private=true&hide=stars" alt="malivinayak" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&show_icons=true&count_private=true&theme=moltack"/> | 
  
 👨‍💻 Top Languages
 <hr> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&layout=compact&theme=moltack&langs_count=12&count_private=true" alt="malivinayak" />
