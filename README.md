@@ -33,6 +33,7 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 <code><img height="38" src="https://img.shields.io/badge/-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="38" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">  </code>
 
