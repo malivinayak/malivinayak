@@ -1,8 +1,10 @@
 
-<h1 align="center">👋 Hi, I’m Vinayak Mali</h1>
+<h1 align="center">👋 Hi, I’m Vinayak Mali <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
 
 ### Glad to see you here! &nbsp;  <img src="https://komarev.com/ghpvc/?username=malivinayak&label=Profile%20Views&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
 I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Back End Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Projects and Dev Stuffs:
 
