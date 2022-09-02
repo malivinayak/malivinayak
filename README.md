@@ -25,17 +25,23 @@
 -->
 
 
+### Projects and Dev Stuffs:
 
-## 📈 my github stats
+<details>	
+  <summary><b>📈 Github Stats</b></summary>
 
-| | |
-| :--: | :--: |
-| `github stats` | `streak-stats` |
-| <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&theme=moltack&count_private=true&hide=stars" alt="malivinayak" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&show_icons=true&count_private=true&theme=moltack"/> | 
- 
-## 👨‍💻 Top Languages
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&layout=compact&theme=moltack&langs_count=12&count_private=true" alt="malivinayak" />
- 
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=stars" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&hide_border=true&count_private=true" />
+</details>
+
 
 ## 🏆 Trophies
 
