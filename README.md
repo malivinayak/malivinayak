@@ -1,7 +1,25 @@
 
 <h1 align="center">👋 Hi, I’m Vinayak Mali</h1>
 
-<img src="https://komarev.com/ghpvc/?username=malivinayak&label=Profile%20Views&color=red&style=for-the-badge" alt="Vinayak Mali Profile Views" height="30" width="150"/></p>
+### Glad to see you here! &nbsp;  <img src="https://komarev.com/ghpvc/?username=malivinayak&label=Profile%20Views&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
+I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Back End Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>📈 Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=stars" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&hide_border=true&count_private=true" />
+</details>
 
 ### Languages and Tools:
 
@@ -23,24 +41,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 -->
-
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>📈 Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=stars" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&hide_border=true&count_private=true" />
-</details>
 
 
 ### 🏆 Trophies
