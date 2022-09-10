@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I’m Vinayak Mali <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> Hi, I’m Vinayak Mali </h1>
 
 ### Glad to see you here! &nbsp;  <img src="https://komarev.com/ghpvc/?username=malivinayak&label=Profile%20Views&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
 I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Back End Development 🕸️ and working on my Data Structures and Algorithms 🤓.
@@ -9,7 +9,7 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>📈 Github Stats</b></summary>
+  <summary><b> Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=stars" />
@@ -17,13 +17,13 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b> Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&hide_border=true&count_private=true" />
 </details>
 
-### :bulb:  Languages & Frameworks
+### Languages & Frameworks
 <code><img title="Python" alt="python" width="35px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img title="C" alt="C" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
@@ -38,7 +38,7 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 <code> <img title="Markdown" alt="markdown" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 </br></br>
 
-### :hammer_and_wrench: Tools I use
+### Tools I use
 <code> <img title="npm" alt="npm" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img height="38" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img title="Git" alt="git" width="30px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
