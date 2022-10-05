@@ -28,7 +28,7 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 
   <!--START_SECTION:activity-->
  
-  <!--END_SECTION:activity-->
+ 
 </details>
 
 ### Languages & Frameworks
