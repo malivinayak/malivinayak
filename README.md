@@ -27,7 +27,7 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-  
+ 
   <!--END_SECTION:activity-->
 </details>
 
