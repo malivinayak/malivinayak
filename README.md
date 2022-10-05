@@ -16,6 +16,13 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malivinayak&hide_border=true&count_private=true" />
 </details>
 
+<details>	
+  <summary><b> Recent Github Activity</b></summary>
+
+  <!--START_SECTION:activity-->
+ 
+</details>
+
 ### Languages & Frameworks
 <code><img title="Python" alt="python" width="35px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
