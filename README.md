@@ -26,7 +26,7 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 <details>	
   <summary><b> Recent Github Activity</b></summary>
 
- 
+  <!--START_SECTION:activity-->
  
 </details>
 
@@ -71,7 +71,3 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-
-
-  <!--START_SECTION:activity-->
