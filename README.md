@@ -27,11 +27,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/malivinayak/malivinayak/pull/1) in [malivinayak/malivinayak](https://github.com/malivinayak/malivinayak)
-2. 💪 Opened PR [#1](https://github.com/malivinayak/malivinayak/pull/1) in [malivinayak/malivinayak](https://github.com/malivinayak/malivinayak)
-3. 🗣 Commented on [#488](https://github.com/OtacilioN/awesome-hacktoberfest-2022/issues/488) in [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022)
-4. 💪 Opened PR [#488](https://github.com/OtacilioN/awesome-hacktoberfest-2022/pull/488) in [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022)
-5. 🗣 Commented on [#3](https://github.com/vaibhavnirmal2001/DSA-hacktoberfest/issues/3) in [vaibhavnirmal2001/DSA-hacktoberfest](https://github.com/vaibhavnirmal2001/DSA-hacktoberfest)
+1. 💪 Opened PR [#1006](https://github.com/TheAlgorithms/C/pull/1006) in [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
+2. 🎉 Merged PR [#1](https://github.com/malivinayak/malivinayak/pull/1) in [malivinayak/malivinayak](https://github.com/malivinayak/malivinayak)
+3. 💪 Opened PR [#1](https://github.com/malivinayak/malivinayak/pull/1) in [malivinayak/malivinayak](https://github.com/malivinayak/malivinayak)
+4. 🗣 Commented on [#488](https://github.com/OtacilioN/awesome-hacktoberfest-2022/issues/488) in [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022)
+5. 💪 Opened PR [#488](https://github.com/OtacilioN/awesome-hacktoberfest-2022/pull/488) in [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022)
 <!--END_SECTION:activity-->
  
 </details>
