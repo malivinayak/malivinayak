@@ -27,11 +27,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/malivinayak/Multi-Programming/pull/8) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-2. 🗣 Commented on [#8](https://github.com/malivinayak/Multi-Programming/issues/8) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-3. 🎉 Merged PR [#7](https://github.com/malivinayak/Multi-Programming/pull/7) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-4. 💪 Opened PR [#7](https://github.com/malivinayak/Multi-Programming/pull/7) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-5. 🎉 Merged PR [#6](https://github.com/malivinayak/Multi-Programming/pull/6) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+1. 💪 Opened PR [#5](https://github.com/MadhanDevlpr/even_series/pull/5) in [MadhanDevlpr/even_series](https://github.com/MadhanDevlpr/even_series)
+2. ❌ Closed PR [#2](https://github.com/Startang141/Calculator_Temperature/pull/2) in [Startang141/Calculator_Temperature](https://github.com/Startang141/Calculator_Temperature)
+3. 🎉 Merged PR [#8](https://github.com/malivinayak/Multi-Programming/pull/8) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+4. 🗣 Commented on [#8](https://github.com/malivinayak/Multi-Programming/issues/8) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+5. 🎉 Merged PR [#7](https://github.com/malivinayak/Multi-Programming/pull/7) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 <!--END_SECTION:activity-->
  
 </details>
