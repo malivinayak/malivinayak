@@ -27,11 +27,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/malivinayak/Multi-Programming/issues/17) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-2. 🗣 Commented on [#17](https://github.com/malivinayak/Multi-Programming/issues/17) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-3. ❌ Closed PR [#22](https://github.com/malivinayak/Multi-Programming/pull/22) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-4. 🗣 Commented on [#22](https://github.com/malivinayak/Multi-Programming/issues/22) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-5. 💪 Opened PR [#22](https://github.com/malivinayak/Multi-Programming/pull/22) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+1. 🎉 Merged PR [#38](https://github.com/malivinayak/Multi-Programming/pull/38) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+2. 🗣 Commented on [#36](https://github.com/malivinayak/Multi-Programming/issues/36) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+3. 🗣 Commented on [#35](https://github.com/malivinayak/Multi-Programming/issues/35) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+4. 🎉 Merged PR [#35](https://github.com/malivinayak/Multi-Programming/pull/35) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+5. 🗣 Commented on [#35](https://github.com/malivinayak/Multi-Programming/issues/35) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
 <!--END_SECTION:activity-->
  
 </details>
