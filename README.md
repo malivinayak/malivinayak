@@ -27,11 +27,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/malivinayak/Alarm-Clock/issues/1) in [malivinayak/Alarm-Clock](https://github.com/malivinayak/Alarm-Clock)
-2. 🗣 Commented on [#2](https://github.com/malivinayak/Alarm-Clock/issues/2) in [malivinayak/Alarm-Clock](https://github.com/malivinayak/Alarm-Clock)
-3. 🎉 Merged PR [#64](https://github.com/malivinayak/Multi-Programming/pull/64) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-4. 🗣 Commented on [#63](https://github.com/malivinayak/Multi-Programming/issues/63) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
-5. 🎉 Merged PR [#63](https://github.com/malivinayak/Multi-Programming/pull/63) in [malivinayak/Multi-Programming](https://github.com/malivinayak/Multi-Programming)
+1. ❗️ Opened issue [#9](https://github.com/b-aishpatil/Visualization-in-R/issues/9) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
+2. 🎉 Merged PR [#8](https://github.com/b-aishpatil/Visualization-in-R/pull/8) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
+3. 💪 Opened PR [#8](https://github.com/b-aishpatil/Visualization-in-R/pull/8) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
+4. ❗️ Opened issue [#7](https://github.com/b-aishpatil/Visualization-in-R/issues/7) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
+5. ❗️ Closed issue [#5](https://github.com/b-aishpatil/Visualization-in-R/issues/5) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
 <!--END_SECTION:activity-->
  
 </details>
