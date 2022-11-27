@@ -27,11 +27,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/b-aishpatil/Visualization-in-R/pull/17) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
-2. 🎉 Merged PR [#1](https://github.com/malivinayak/Visualization-in-R/pull/1) in [malivinayak/Visualization-in-R](https://github.com/malivinayak/Visualization-in-R)
-3. 💪 Opened PR [#1](https://github.com/malivinayak/Visualization-in-R/pull/1) in [malivinayak/Visualization-in-R](https://github.com/malivinayak/Visualization-in-R)
-4. ❗️ Opened issue [#9](https://github.com/b-aishpatil/Visualization-in-R/issues/9) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
-5. 🎉 Merged PR [#8](https://github.com/b-aishpatil/Visualization-in-R/pull/8) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
+1. ❗️ Opened issue [#2](https://github.com/omkarkajarekar/FlyAir/issues/2) in [omkarkajarekar/FlyAir](https://github.com/omkarkajarekar/FlyAir)
+2. ❗️ Opened issue [#1](https://github.com/omkarkajarekar/FlyAir/issues/1) in [omkarkajarekar/FlyAir](https://github.com/omkarkajarekar/FlyAir)
+3. 💪 Opened PR [#17](https://github.com/b-aishpatil/Visualization-in-R/pull/17) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
+4. 🎉 Merged PR [#1](https://github.com/malivinayak/Visualization-in-R/pull/1) in [malivinayak/Visualization-in-R](https://github.com/malivinayak/Visualization-in-R)
+5. 💪 Opened PR [#1](https://github.com/malivinayak/Visualization-in-R/pull/1) in [malivinayak/Visualization-in-R](https://github.com/malivinayak/Visualization-in-R)
 <!--END_SECTION:activity-->
  
 </details>
