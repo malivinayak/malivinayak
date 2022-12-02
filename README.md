@@ -27,11 +27,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/b-aishpatil/Visualization-in-R/pull/17) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
-2. 🎉 Merged PR [#1](https://github.com/malivinayak/Visualization-in-R/pull/1) in [malivinayak/Visualization-in-R](https://github.com/malivinayak/Visualization-in-R)
-3. 💪 Opened PR [#1](https://github.com/malivinayak/Visualization-in-R/pull/1) in [malivinayak/Visualization-in-R](https://github.com/malivinayak/Visualization-in-R)
-4. ❗️ Opened issue [#9](https://github.com/b-aishpatil/Visualization-in-R/issues/9) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
-5. 🎉 Merged PR [#8](https://github.com/b-aishpatil/Visualization-in-R/pull/8) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
+1. 🎉 Merged PR [#2](https://github.com/malivinayak/world-map/pull/2) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
+2. 💪 Opened PR [#2](https://github.com/malivinayak/world-map/pull/2) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
+3. 🎉 Merged PR [#1](https://github.com/malivinayak/world-map/pull/1) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
+4. 💪 Opened PR [#1](https://github.com/malivinayak/world-map/pull/1) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
+5. 💪 Opened PR [#17](https://github.com/b-aishpatil/Visualization-in-R/pull/17) in [b-aishpatil/Visualization-in-R](https://github.com/b-aishpatil/Visualization-in-R)
 <!--END_SECTION:activity-->
  
 </details>
