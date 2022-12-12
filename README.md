@@ -33,11 +33,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/malivinayak/Trip-Management-System/issues/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
-2. 💪 Opened PR [#107](https://github.com/malivinayak/Trip-Management-System/pull/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
-3. 🎉 Merged PR [#4](https://github.com/malivinayak/world-map/pull/4) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
-4. 💪 Opened PR [#4](https://github.com/malivinayak/world-map/pull/4) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
-5. 🎉 Merged PR [#3](https://github.com/malivinayak/world-map/pull/3) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
+1. ❗️ Opened issue [#16641](https://github.com/eslint/eslint/issues/16641) in [eslint/eslint](https://github.com/eslint/eslint)
+2. 🗣 Commented on [#107](https://github.com/malivinayak/Trip-Management-System/issues/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
+3. 💪 Opened PR [#107](https://github.com/malivinayak/Trip-Management-System/pull/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
+4. 🎉 Merged PR [#4](https://github.com/malivinayak/world-map/pull/4) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
+5. 💪 Opened PR [#4](https://github.com/malivinayak/world-map/pull/4) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
 <!--END_SECTION:activity-->
  
 </details>
