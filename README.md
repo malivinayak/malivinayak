@@ -8,6 +8,7 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 
 ### Projects 
 - 🌍 [World Map](https://malivinayak.github.io/world-map/)
+- [Trip Management System](https://github.com/malivinayak/Trip-Management-System)
 - [Self Correcting Message System](https://github.com/malivinayak/Self-Correcting-Message-System-using-Hamming-Code)
 - [Flutter Razorpay Integration](https://github.com/malivinayak/flutter_razorpay_integration)
 - [Taxi Management System](https://github.com/OutdatedGuy/Sem-5-PBL-Code)
