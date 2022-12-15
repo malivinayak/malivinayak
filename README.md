@@ -34,11 +34,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/malivinayak/Trip-Management-System/issues/40) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
-2. ❗️ Opened issue [#16641](https://github.com/eslint/eslint/issues/16641) in [eslint/eslint](https://github.com/eslint/eslint)
-3. 🗣 Commented on [#107](https://github.com/malivinayak/Trip-Management-System/issues/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
-4. 💪 Opened PR [#107](https://github.com/malivinayak/Trip-Management-System/pull/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
-5. 🎉 Merged PR [#4](https://github.com/malivinayak/world-map/pull/4) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
+1. 🗣 Commented on [#1](https://github.com/malivinayak/Alarm-Clock/issues/1) in [malivinayak/Alarm-Clock](https://github.com/malivinayak/Alarm-Clock)
+2. 🗣 Commented on [#1](https://github.com/malivinayak/To-Do-Manager/issues/1) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+3. ❗️ Closed issue [#40](https://github.com/malivinayak/Trip-Management-System/issues/40) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
+4. ❗️ Opened issue [#16641](https://github.com/eslint/eslint/issues/16641) in [eslint/eslint](https://github.com/eslint/eslint)
+5. 🗣 Commented on [#107](https://github.com/malivinayak/Trip-Management-System/issues/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
 <!--END_SECTION:activity-->
  
 </details>
