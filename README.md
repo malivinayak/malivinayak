@@ -11,7 +11,7 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 - [Trip Management System](https://github.com/malivinayak/Trip-Management-System/tree/README-File)
 - [Self Correcting Message System](https://github.com/malivinayak/Self-Correcting-Message-System-using-Hamming-Code)
 - [Flutter Razorpay Integration](https://github.com/malivinayak/flutter_razorpay_integration)
-- [Taxi Management System](https://github.com/OutdatedGuy/Sem-5-PBL-Code)
+- [Taxi Management System](https://github.com/malivinayak/Taxi-Management-System)
 
 ### Dev Stuffs:
 
