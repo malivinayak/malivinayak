@@ -34,11 +34,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/malivinayak/Alarm-Clock/issues/1) in [malivinayak/Alarm-Clock](https://github.com/malivinayak/Alarm-Clock)
-2. 🗣 Commented on [#1](https://github.com/malivinayak/To-Do-Manager/issues/1) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-3. ❗️ Closed issue [#40](https://github.com/malivinayak/Trip-Management-System/issues/40) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
-4. ❗️ Opened issue [#16641](https://github.com/eslint/eslint/issues/16641) in [eslint/eslint](https://github.com/eslint/eslint)
-5. 🗣 Commented on [#107](https://github.com/malivinayak/Trip-Management-System/issues/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
+1. ❗️ Closed issue [#1](https://github.com/malivinayak/Taxi-Management-System/issues/1) in [malivinayak/Taxi-Management-System](https://github.com/malivinayak/Taxi-Management-System)
+2. 🎉 Merged PR [#2](https://github.com/malivinayak/Taxi-Management-System/pull/2) in [malivinayak/Taxi-Management-System](https://github.com/malivinayak/Taxi-Management-System)
+3. 💪 Opened PR [#2](https://github.com/malivinayak/Taxi-Management-System/pull/2) in [malivinayak/Taxi-Management-System](https://github.com/malivinayak/Taxi-Management-System)
+4. ❗️ Opened issue [#1](https://github.com/malivinayak/Taxi-Management-System/issues/1) in [malivinayak/Taxi-Management-System](https://github.com/malivinayak/Taxi-Management-System)
+5. 🗣 Commented on [#1](https://github.com/malivinayak/Alarm-Clock/issues/1) in [malivinayak/Alarm-Clock](https://github.com/malivinayak/Alarm-Clock)
 <!--END_SECTION:activity-->
  
 </details>
