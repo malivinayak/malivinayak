@@ -34,11 +34,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/malivinayak/To-Do-Manager/pull/6) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-2. 💪 Opened PR [#6](https://github.com/malivinayak/To-Do-Manager/pull/6) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-3. 🎉 Merged PR [#5](https://github.com/malivinayak/To-Do-Manager/pull/5) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-4. 💪 Opened PR [#5](https://github.com/malivinayak/To-Do-Manager/pull/5) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-5. ❗️ Closed issue [#1](https://github.com/malivinayak/Taxi-Management-System/issues/1) in [malivinayak/Taxi-Management-System](https://github.com/malivinayak/Taxi-Management-System)
+1. 🎉 Merged PR [#11](https://github.com/malivinayak/To-Do-Manager/pull/11) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+2. 💪 Opened PR [#11](https://github.com/malivinayak/To-Do-Manager/pull/11) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+3. ❗️ Closed issue [#9](https://github.com/malivinayak/To-Do-Manager/issues/9) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+4. 🎉 Merged PR [#10](https://github.com/malivinayak/To-Do-Manager/pull/10) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+5. 💪 Opened PR [#10](https://github.com/malivinayak/To-Do-Manager/pull/10) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
 <!--END_SECTION:activity-->
  
 </details>
