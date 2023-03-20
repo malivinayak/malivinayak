@@ -35,11 +35,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/malivinayak/NextSquare-Technologies/pull/18) in [malivinayak/NextSquare-Technologies](https://github.com/malivinayak/NextSquare-Technologies)
-2. 💪 Opened PR [#18](https://github.com/malivinayak/NextSquare-Technologies/pull/18) in [malivinayak/NextSquare-Technologies](https://github.com/malivinayak/NextSquare-Technologies)
-3. 🎉 Merged PR [#107](https://github.com/malivinayak/Trip-Management-System/pull/107) in [malivinayak/Trip-Management-System](https://github.com/malivinayak/Trip-Management-System)
-4. 🎉 Merged PR [#25](https://github.com/malivinayak/To-Do-Manager/pull/25) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-5. 💪 Opened PR [#25](https://github.com/malivinayak/To-Do-Manager/pull/25) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+1. ❗️ Closed issue [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
+2. 🗣 Commented on [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
+3. ❗️ Opened issue [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
+4. 🎉 Merged PR [#18](https://github.com/malivinayak/NextSquare-Technologies/pull/18) in [malivinayak/NextSquare-Technologies](https://github.com/malivinayak/NextSquare-Technologies)
+5. 💪 Opened PR [#18](https://github.com/malivinayak/NextSquare-Technologies/pull/18) in [malivinayak/NextSquare-Technologies](https://github.com/malivinayak/NextSquare-Technologies)
 <!--END_SECTION:activity-->
  
 </details>
