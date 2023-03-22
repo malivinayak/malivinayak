@@ -124,6 +124,8 @@
 
 <br>
 
+<!-- Section 6: Profile Views -->
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="55"> <img height='35' src="https://komarev.com/ghpvc/?username=malivinayak&label=Your+Visit&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
 
 </div>
 
