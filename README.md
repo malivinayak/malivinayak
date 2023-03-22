@@ -4,7 +4,7 @@
 
 <!-- Section 1: Intro -->
 
-![Intro](https://readme-typing-svg.herokuapp.com/?color=00bbff&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Vinayak+Mali;Known+for+my+self-projects+and;ability+to+process+many+ongoing+tasks;I'm+a+Full+Stack+Developer;Glad+to+see+you+here!+ツ)
+![Intro](https://readme-typing-svg.herokuapp.com/?color=00bbff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Vinayak+Mali;Known+for+my+self-projects+and;ability+to+process+many+ongoing+tasks;I'm+a+Full+Stack+Developer;Glad+to+see+you+here!+ツ)
 
 <!-- Section 2: Github Stats -->
 <div align="center">
