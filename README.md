@@ -2,13 +2,19 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=header"/>
 </a>
 
+<!-- Section 1: Intro -->
 ![Intro](https://readme-typing-svg.herokuapp.com/?color=00bbff&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Vinayak+Mali;Known+for+my+self-projects+and;ability+to+process+many+ongoing+tasks;I'm+a+Full+Stack+Developer;Glad+to+see+you+here!+ツ)
 
-
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"> <img src="https://komarev.com/ghpvc/?username=malivinayak&label=Profile%20Views&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
-I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Back End Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- Section 2: Github Stats -->
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&theme=blue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&langs_count=8&count_private=false&layout=compact&theme=blue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+</div> 
 
 ### Projects 
 - 🌍 [World Map](https://malivinayak.github.io/world-map/)
@@ -90,3 +96,17 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
+
+<!-- 
+
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"> <img src="https://komarev.com/ghpvc/?username=malivinayak&label=Profile%20Views&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
+
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<div align="center">
+<br>
+I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Back End Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+</div>
+
+<hr> -->
