@@ -113,7 +113,26 @@
 
 <br>
 
+<!-- Section 5: Trophies -->
+<div align='center'>
 
+### 🏆 Trophies 🏆
+
+<br>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=malivinayak&theme=nord&no-frame=false&no-bg=false&margin-w=8&column=-1)
+
+<br>
+
+
+</div>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=footer"/>
+</a>
+
+
+<!-- 
 <details>	
   <summary><b> Projects </b></summary>
 
@@ -127,18 +146,19 @@
 </details>	
 
 <details>	
-  <summary><b> Recent Github Activity</b></summary>
+  <summary><b> Recent Github Activity</b></summary> -->
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+<!-- 1. 🗣 Commented on [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
 2. 💪 Opened PR [#2](https://github.com/Deepansh04/Simple-Resume/pull/2) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
 3. ❗️ Opened issue [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
 4. ❗️ Closed issue [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
-5. 🗣 Commented on [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
+5. 🗣 Commented on [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- 
+</details> -->
 
 ---
 
@@ -147,6 +167,7 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
 
 <!--
 
