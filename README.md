@@ -10,10 +10,10 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&theme=blue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=99c2ff&hide_border=true&custom_title=My+Github+Stats&ring_color=0083B3"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&langs_count=8&count_private=false&layout=compact&theme=blue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&langs_count=8&count_private=false&layout=compact&theme=transparent&bg_color=0d1117&text_color=99c2ff&hide_border=true"/>
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=malivinayak&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=0083B3&fire=0066FF&currStreakLabel=0083B3&stroke=0066FF&border=0055FF"/>
+    <img height="190rem" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=malivinayak&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=0083B3&fire=0066FF&currStreakLabel=0083B3&stroke=0066FF&border=0055FF&sideLabels=99c2ff&dates=99c2ff&currStreakNum=99c2ff&sideNums=99c2ff"/>
   </a>
 </div>
 
