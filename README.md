@@ -118,14 +118,16 @@
 
 ### 🏆 Trophies 🏆
 
-<br>
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=malivinayak&theme=nord&no-frame=false&no-bg=false&margin-w=8&column=-1)
 
-<br>
-
 <!-- Section 6: Profile Views -->
+
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="55"> <img height='35' src="https://komarev.com/ghpvc/?username=malivinayak&label=Your+Visit&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
+</div>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
 
 </div>
 
@@ -133,9 +135,8 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=footer"/>
 </a>
 
-
-<!-- 
-<details>	
+<!--
+<details>
   <summary><b> Projects </b></summary>
 
 - 🌍 [World Map](https://malivinayak.github.io/world-map/)
@@ -145,9 +146,9 @@
 - [Flutter Razorpay Integration](https://github.com/malivinayak/flutter_razorpay_integration)
 - [Taxi Management System](https://github.com/malivinayak/Taxi-Management-System)
 
-</details>	
+</details>
 
-<details>	
+<details>
   <summary><b> Recent Github Activity</b></summary> -->
 
   <!--START_SECTION:activity-->
@@ -159,17 +160,10 @@
 5. 🗣 Commented on [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo) -->
 <!--END_SECTION:activity-->
 
-<!-- 
+<!--
 </details> -->
 
 ---
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
 
 <!--
 
