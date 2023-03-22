@@ -1,5 +1,9 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=header"/>
+</a>
 
 <h1 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> Hi, I’m Vinayak Mali </h1>
+
 
 ### Glad to see you here! &nbsp;  <img src="https://komarev.com/ghpvc/?username=malivinayak&label=Profile%20Views&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
 I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Back End Development 🕸️ and working on my Data Structures and Algorithms 🤓.
@@ -76,12 +80,13 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=malivinayak&theme=nord&no-frame=false&no-bg=false&margin-w=8&column=-1)
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=footer"/>
+</a>
 
-
-#
+---
 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
