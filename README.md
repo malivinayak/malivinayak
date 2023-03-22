@@ -35,11 +35,11 @@ I'm pursuing Computer Science Engnineering 🏛. I'm a passionate learner who's 
   <summary><b> Recent Github Activity</b></summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
-2. 🗣 Commented on [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
-3. ❗️ Opened issue [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
-4. 🎉 Merged PR [#18](https://github.com/malivinayak/NextSquare-Technologies/pull/18) in [malivinayak/NextSquare-Technologies](https://github.com/malivinayak/NextSquare-Technologies)
-5. 💪 Opened PR [#18](https://github.com/malivinayak/NextSquare-Technologies/pull/18) in [malivinayak/NextSquare-Technologies](https://github.com/malivinayak/NextSquare-Technologies)
+1. 🗣 Commented on [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+2. 💪 Opened PR [#2](https://github.com/Deepansh04/Simple-Resume/pull/2) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+3. ❗️ Opened issue [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+4. ❗️ Closed issue [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
+5. 🗣 Commented on [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
 <!--END_SECTION:activity-->
  
 </details>
