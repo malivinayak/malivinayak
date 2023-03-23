@@ -153,11 +153,11 @@
 
   <!--START_SECTION:activity-->
 
-<!-- 1. 🗣 Commented on [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
-2. 💪 Opened PR [#2](https://github.com/Deepansh04/Simple-Resume/pull/2) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
-3. ❗️ Opened issue [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
-4. ❗️ Closed issue [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo)
-5. 🗣 Commented on [#1](https://github.com/vivekutture/Demo/issues/1) in [vivekutture/Demo](https://github.com/vivekutture/Demo) -->
+1. 🎉 Merged PR [#2](https://github.com/malivinayak/malivinayak/pull/2) in [malivinayak/malivinayak](https://github.com/malivinayak/malivinayak)
+2. 💪 Opened PR [#2](https://github.com/malivinayak/malivinayak/pull/2) in [malivinayak/malivinayak](https://github.com/malivinayak/malivinayak)
+3. 🗣 Commented on [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+4. 💪 Opened PR [#2](https://github.com/Deepansh04/Simple-Resume/pull/2) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+5. ❗️ Opened issue [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
 <!--END_SECTION:activity-->
 
 <!--
