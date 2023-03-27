@@ -153,11 +153,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/malivinayak/malivinayak/pull/2) in [malivinayak/malivinayak](https://github.com/malivinayak/malivinayak)
-2. 💪 Opened PR [#2](https://github.com/malivinayak/malivinayak/pull/2) in [malivinayak/malivinayak](https://github.com/malivinayak/malivinayak)
-3. 🗣 Commented on [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
-4. 💪 Opened PR [#2](https://github.com/Deepansh04/Simple-Resume/pull/2) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
-5. ❗️ Opened issue [#1](https://github.com/Deepansh04/Simple-Resume/issues/1) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+1. ❗️ Closed issue [#4](https://github.com/malivinayak/Markdown/issues/4) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+2. ❗️ Closed issue [#2](https://github.com/malivinayak/Markdown/issues/2) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+3. 🗣 Commented on [#2](https://github.com/malivinayak/Markdown/issues/2) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+4. 🗣 Commented on [#3](https://github.com/malivinayak/Markdown/issues/3) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+5. ❗️ Closed issue [#3](https://github.com/malivinayak/Markdown/issues/3) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
 <!--END_SECTION:activity-->
 
 <!--
