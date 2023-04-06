@@ -153,11 +153,11 @@
 
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#4](https://github.com/malivinayak/Markdown/issues/4) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
-2. ❗️ Closed issue [#2](https://github.com/malivinayak/Markdown/issues/2) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
-3. 🗣 Commented on [#2](https://github.com/malivinayak/Markdown/issues/2) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
-4. 🗣 Commented on [#3](https://github.com/malivinayak/Markdown/issues/3) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
-5. ❗️ Closed issue [#3](https://github.com/malivinayak/Markdown/issues/3) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+1. 🗣 Commented on [#4](https://github.com/malivinayak/Markdown/issues/4) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+2. ❗️ Closed issue [#4](https://github.com/malivinayak/Markdown/issues/4) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+3. ❗️ Closed issue [#2](https://github.com/malivinayak/Markdown/issues/2) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+4. 🗣 Commented on [#2](https://github.com/malivinayak/Markdown/issues/2) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+5. 🗣 Commented on [#3](https://github.com/malivinayak/Markdown/issues/3) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
 <!--END_SECTION:activity-->
 
 <!--
