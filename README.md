@@ -111,12 +111,8 @@
   </p>
 </div>
 
-<br>
-
 <!-- Section 5: Trophies -->
 <div align='center'>
-
-### 🏆 Trophies 🏆
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=malivinayak&theme=nord&no-frame=false&no-bg=false&margin-w=8&column=-1)
 
