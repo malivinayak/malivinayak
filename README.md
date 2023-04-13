@@ -149,11 +149,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#20](https://github.com/malivinayak/Markdown/pull/20) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
-2. 💪 Opened PR [#20](https://github.com/malivinayak/Markdown/pull/20) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
-3. 🎉 Merged PR [#3](https://github.com/malivinayak/Rock-Paper-Scissors/pull/3) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
-4. 💪 Opened PR [#3](https://github.com/malivinayak/Rock-Paper-Scissors/pull/3) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
-5. 🗣 Commented on [#1](https://github.com/malivinayak/Rock-Paper-Scissors/issues/1) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
+1. 🎉 Merged PR [#4](https://github.com/malivinayak/Rock-Paper-Scissors/pull/4) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
+2. 💪 Opened PR [#4](https://github.com/malivinayak/Rock-Paper-Scissors/pull/4) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
+3. 🎉 Merged PR [#20](https://github.com/malivinayak/Markdown/pull/20) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+4. 💪 Opened PR [#20](https://github.com/malivinayak/Markdown/pull/20) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+5. 🎉 Merged PR [#3](https://github.com/malivinayak/Rock-Paper-Scissors/pull/3) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
 <!--END_SECTION:activity-->
 
 <!--
