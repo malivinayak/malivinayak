@@ -150,10 +150,10 @@
   <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/issues/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
-2. 💪 Opened PR [#1](https://github.com/vivekutture/Tic-Tac-Toe/pull/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
-3. 🎉 Merged PR [#4](https://github.com/malivinayak/Rock-Paper-Scissors/pull/4) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
-4. 💪 Opened PR [#4](https://github.com/malivinayak/Rock-Paper-Scissors/pull/4) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
-5. 🎉 Merged PR [#20](https://github.com/malivinayak/Markdown/pull/20) in [malivinayak/Markdown](https://github.com/malivinayak/Markdown)
+2. ❌ Closed PR [#1](https://github.com/vivekutture/Tic-Tac-Toe/pull/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
+3. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/issues/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
+4. 💪 Opened PR [#1](https://github.com/vivekutture/Tic-Tac-Toe/pull/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
+5. 🎉 Merged PR [#4](https://github.com/malivinayak/Rock-Paper-Scissors/pull/4) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
 <!--END_SECTION:activity-->
 
 <!--
