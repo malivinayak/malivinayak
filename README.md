@@ -149,11 +149,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/issues/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
-2. ❌ Closed PR [#1](https://github.com/vivekutture/Tic-Tac-Toe/pull/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
-3. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/issues/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
-4. 💪 Opened PR [#1](https://github.com/vivekutture/Tic-Tac-Toe/pull/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
-5. 🎉 Merged PR [#4](https://github.com/malivinayak/Rock-Paper-Scissors/pull/4) in [malivinayak/Rock-Paper-Scissors](https://github.com/malivinayak/Rock-Paper-Scissors)
+1. 🔒 Closed issue [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
+2. 🗣 Commented on [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
+3. 🗣 Commented on [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
+4. ❗ Opened issue [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
+5. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/issues/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
 <!--END_SECTION:activity-->
 
 <!--
