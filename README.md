@@ -150,10 +150,10 @@
   <!--START_SECTION:activity-->
 
 1. 🔒 Closed issue [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
-2. 🗣 Commented on [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
-3. 🗣 Commented on [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
+2. 🗣 Commented on [#1](https://github.com/Shraddha-V22/mcr-6/issues/1#issuecomment-1627470758) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
+3. 🗣 Commented on [#1](https://github.com/Shraddha-V22/mcr-6/issues/1#issuecomment-1627402763) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
 4. ❗ Opened issue [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
-5. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/issues/1) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
+5. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/pull/1#issuecomment-1537420147) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
 <!--END_SECTION:activity-->
 
 <!--
