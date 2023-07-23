@@ -121,16 +121,6 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="55"> <img height='35' src="https://komarev.com/ghpvc/?username=malivinayak&label=Your+Visit&color=blue&style=for-the-badge" alt="Vinayak Mali Profile Views"/></p>
 </div>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=footer"/>
-</a>
-
 <!--
 <details>
   <summary><b> Projects </b></summary>
@@ -155,6 +145,25 @@
 4. ❗ Opened issue [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
 5. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/pull/1#issuecomment-1537420147) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
 <!--END_SECTION:activity-->
+
+<hr>
+
+### Currently Working On : Line-Coding-Waves [Deployment](https://malivinayak.github.io/Line-Coding-Waves/)
+
+<hr>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=footer"/>
+</a>
+
+
+
 
 <!--
 </details> -->
