@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
-2. 🗣 Commented on [#1](https://github.com/Shraddha-V22/mcr-6/issues/1#issuecomment-1627470758) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
-3. 🗣 Commented on [#1](https://github.com/Shraddha-V22/mcr-6/issues/1#issuecomment-1627402763) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
-4. ❗ Opened issue [#1](https://github.com/Shraddha-V22/mcr-6/issues/1) in [Shraddha-V22/mcr-6](https://github.com/Shraddha-V22/mcr-6)
-5. 🗣 Commented on [#1](https://github.com/vivekutture/Tic-Tac-Toe/pull/1#issuecomment-1537420147) in [vivekutture/Tic-Tac-Toe](https://github.com/vivekutture/Tic-Tac-Toe)
+1. 🎉 Merged PR [#6](https://github.com/malivinayak/Line-Coding-Waves/pull/6) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+2. 💪 Opened PR [#6](https://github.com/malivinayak/Line-Coding-Waves/pull/6) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+3. 🚀 Published release [v1.0.2](https://github.com/malivinayak/Line-Coding-Waves/releases/tag/v1.0.2) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+4. 🎉 Merged PR [#5](https://github.com/malivinayak/Line-Coding-Waves/pull/5) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+5. 💪 Opened PR [#5](https://github.com/malivinayak/Line-Coding-Waves/pull/5) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
 <!--END_SECTION:activity-->
 
 <hr>
