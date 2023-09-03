@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/malivinayak/Line-Coding-Waves/pull/6) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
-2. 💪 Opened PR [#6](https://github.com/malivinayak/Line-Coding-Waves/pull/6) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
-3. 🚀 Published release [v1.0.2](https://github.com/malivinayak/Line-Coding-Waves/releases/tag/v1.0.2) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
-4. 🎉 Merged PR [#5](https://github.com/malivinayak/Line-Coding-Waves/pull/5) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
-5. 💪 Opened PR [#5](https://github.com/malivinayak/Line-Coding-Waves/pull/5) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+1. 💪 Opened PR [#8](https://github.com/qiskit-advocate/application-guide/pull/8) in [qiskit-advocate/application-guide](https://github.com/qiskit-advocate/application-guide)
+2. 🎉 Merged PR [#6](https://github.com/malivinayak/Line-Coding-Waves/pull/6) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+3. 💪 Opened PR [#6](https://github.com/malivinayak/Line-Coding-Waves/pull/6) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+4. 🚀 Published release [v1.0.2](https://github.com/malivinayak/Line-Coding-Waves/releases/tag/v1.0.2) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+5. 🎉 Merged PR [#5](https://github.com/malivinayak/Line-Coding-Waves/pull/5) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
 <!--END_SECTION:activity-->
 
 <hr>
