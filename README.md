@@ -152,6 +152,8 @@
 
 <hr>
 
+[![An image of @malivinayak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/malivinayak)](https://holopin.io/@malivinayak)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
