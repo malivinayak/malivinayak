@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8](https://github.com/qiskit-advocate/application-guide/pull/8) in [qiskit-advocate/application-guide](https://github.com/qiskit-advocate/application-guide)
-2. 🎉 Merged PR [#6](https://github.com/malivinayak/Line-Coding-Waves/pull/6) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
-3. 💪 Opened PR [#6](https://github.com/malivinayak/Line-Coding-Waves/pull/6) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
-4. 🚀 Published release [v1.0.2](https://github.com/malivinayak/Line-Coding-Waves/releases/tag/v1.0.2) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
-5. 🎉 Merged PR [#5](https://github.com/malivinayak/Line-Coding-Waves/pull/5) in [malivinayak/Line-Coding-Waves](https://github.com/malivinayak/Line-Coding-Waves)
+1. 🗣 Commented on [#14](https://github.com/malivinayak/Tic-Tac-Toe/pull/14#issuecomment-1747126365) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
+2. 🗣 Commented on [#13](https://github.com/malivinayak/Tic-Tac-Toe/pull/13#issuecomment-1747113997) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
+3. 🗣 Commented on [#3](https://github.com/christopher-siewert/cpp-calculator/pull/3#issuecomment-1747071001) in [christopher-siewert/cpp-calculator](https://github.com/christopher-siewert/cpp-calculator)
+4. ❗ Opened issue [#44](https://github.com/malivinayak/To-Do-Manager/issues/44) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+5. 🔒 Closed issue [#9](https://github.com/malivinayak/Tic-Tac-Toe/issues/9) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
 <!--END_SECTION:activity-->
 
 <hr>
