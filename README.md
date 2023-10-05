@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#14](https://github.com/malivinayak/Tic-Tac-Toe/pull/14#issuecomment-1747126365) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
-2. 🗣 Commented on [#13](https://github.com/malivinayak/Tic-Tac-Toe/pull/13#issuecomment-1747113997) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
-3. 🗣 Commented on [#3](https://github.com/christopher-siewert/cpp-calculator/pull/3#issuecomment-1747071001) in [christopher-siewert/cpp-calculator](https://github.com/christopher-siewert/cpp-calculator)
-4. ❗ Opened issue [#44](https://github.com/malivinayak/To-Do-Manager/issues/44) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-5. 🔒 Closed issue [#9](https://github.com/malivinayak/Tic-Tac-Toe/issues/9) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
+1. 🗣 Commented on [#15](https://github.com/malivinayak/Tic-Tac-Toe/pull/15#issuecomment-1747336608) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
+2. 🗣 Commented on [#45](https://github.com/malivinayak/To-Do-Manager/pull/45#issuecomment-1747304060) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+3. 🗣 Commented on [#47](https://github.com/malivinayak/To-Do-Manager/issues/47#issuecomment-1747261321) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+4. 🗣 Commented on [#43](https://github.com/malivinayak/To-Do-Manager/issues/43#issuecomment-1747253987) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+5. 🗣 Commented on [#44](https://github.com/malivinayak/To-Do-Manager/issues/44#issuecomment-1747251750) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
 <!--END_SECTION:activity-->
 
 <hr>
