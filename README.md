@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#15](https://github.com/malivinayak/Tic-Tac-Toe/pull/15#issuecomment-1747336608) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
-2. 🗣 Commented on [#45](https://github.com/malivinayak/To-Do-Manager/pull/45#issuecomment-1747304060) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-3. 🗣 Commented on [#47](https://github.com/malivinayak/To-Do-Manager/issues/47#issuecomment-1747261321) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-4. 🗣 Commented on [#43](https://github.com/malivinayak/To-Do-Manager/issues/43#issuecomment-1747253987) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-5. 🗣 Commented on [#44](https://github.com/malivinayak/To-Do-Manager/issues/44#issuecomment-1747251750) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+1. 🗣 Commented on [#21](https://github.com/malivinayak/Tic-Tac-Toe/issues/21#issuecomment-1751791532) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
+2. 🔒 Closed issue [#16](https://github.com/malivinayak/Tic-Tac-Toe/issues/16) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
+3. 🎉 Merged PR [#17](https://github.com/malivinayak/Tic-Tac-Toe/pull/17) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
+4. 🎉 Merged PR [#51](https://github.com/malivinayak/To-Do-Manager/pull/51) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+5. 🗣 Commented on [#47](https://github.com/malivinayak/To-Do-Manager/issues/47#issuecomment-1751250996) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
 <!--END_SECTION:activity-->
 
 <hr>
