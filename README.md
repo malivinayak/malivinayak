@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#21](https://github.com/malivinayak/Tic-Tac-Toe/issues/21#issuecomment-1751791532) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
-2. 🔒 Closed issue [#16](https://github.com/malivinayak/Tic-Tac-Toe/issues/16) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
-3. 🎉 Merged PR [#17](https://github.com/malivinayak/Tic-Tac-Toe/pull/17) in [malivinayak/Tic-Tac-Toe](https://github.com/malivinayak/Tic-Tac-Toe)
-4. 🎉 Merged PR [#51](https://github.com/malivinayak/To-Do-Manager/pull/51) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
-5. 🗣 Commented on [#47](https://github.com/malivinayak/To-Do-Manager/issues/47#issuecomment-1751250996) in [malivinayak/To-Do-Manager](https://github.com/malivinayak/To-Do-Manager)
+1. 💪 Opened PR [#3191](https://github.com/EddieHubCommunity/open-source-practice/pull/3191) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
+2. 💪 Opened PR [#21124](https://github.com/zero-to-mastery/start-here-guidelines/pull/21124) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+3. 💪 Opened PR [#197](https://github.com/sadanandpai/frontend-mini-challenges/pull/197) in [sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges)
+4. ❗ Opened issue [#196](https://github.com/sadanandpai/frontend-mini-challenges/issues/196) in [sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges)
+5. 💪 Opened PR [#4496](https://github.com/novuhq/novu/pull/4496) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 <hr>
