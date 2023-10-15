@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3191](https://github.com/EddieHubCommunity/open-source-practice/pull/3191) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
-2. 💪 Opened PR [#21124](https://github.com/zero-to-mastery/start-here-guidelines/pull/21124) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-3. 💪 Opened PR [#197](https://github.com/sadanandpai/frontend-mini-challenges/pull/197) in [sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges)
-4. ❗ Opened issue [#196](https://github.com/sadanandpai/frontend-mini-challenges/issues/196) in [sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges)
-5. 💪 Opened PR [#4496](https://github.com/novuhq/novu/pull/4496) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 🗣 Commented on [#6415](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/6415#issuecomment-1763128118) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+2. 💪 Opened PR [#6415](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/6415) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+3. 🗣 Commented on [#187](https://github.com/you-dont-need/You-Dont-Need-JavaScript/pull/187#issuecomment-1762924668) in [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+4. 🗣 Commented on [#178](https://github.com/you-dont-need/You-Dont-Need-JavaScript/issues/178#issuecomment-1762873174) in [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+5. 🗣 Commented on [#551](https://github.com/shyamtawli/devFind/issues/551#issuecomment-1762868178) in [shyamtawli/devFind](https://github.com/shyamtawli/devFind)
 <!--END_SECTION:activity-->
 
 <hr>
