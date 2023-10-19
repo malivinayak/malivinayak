@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6415](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/6415#issuecomment-1763128118) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-2. 💪 Opened PR [#6415](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/6415) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. 🗣 Commented on [#187](https://github.com/you-dont-need/You-Dont-Need-JavaScript/pull/187#issuecomment-1762924668) in [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
-4. 🗣 Commented on [#178](https://github.com/you-dont-need/You-Dont-Need-JavaScript/issues/178#issuecomment-1762873174) in [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
-5. 🗣 Commented on [#551](https://github.com/shyamtawli/devFind/issues/551#issuecomment-1762868178) in [shyamtawli/devFind](https://github.com/shyamtawli/devFind)
+1. 💪 Opened PR [#600](https://github.com/shyamtawli/devFind/pull/600) in [shyamtawli/devFind](https://github.com/shyamtawli/devFind)
+2. ❌ Closed PR [#10536](https://github.com/TheAlgorithms/Python/pull/10536) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+3. 🗣 Commented on [#1977](https://github.com/rupali-codes/LinksHub/pull/1977#issuecomment-1766741523) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 🗣 Commented on [#809](https://github.com/WeMakeDevs/wemakedevs/issues/809#issuecomment-1766723511) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
+5. 💪 Opened PR [#813](https://github.com/WeMakeDevs/wemakedevs/pull/813) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 <!--END_SECTION:activity-->
 
 <hr>
