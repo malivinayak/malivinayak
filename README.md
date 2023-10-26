@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#770](https://github.com/swirlai/swirl-search/pull/770) in [swirlai/swirl-search](https://github.com/swirlai/swirl-search)
-2. ❌ Closed PR [#566](https://github.com/haotian-liu/LLaVA/pull/566) in [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)
-3. ❌ Closed PR [#2046](https://github.com/30-seconds/30-seconds-of-code/pull/2046) in [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-4. ❌ Closed PR [#813](https://github.com/WeMakeDevs/wemakedevs/pull/813) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
-5. ❌ Closed PR [#600](https://github.com/shyamtawli/devFind/pull/600) in [shyamtawli/devFind](https://github.com/shyamtawli/devFind)
+1. 🗣 Commented on [#5](https://github.com/malivinayak/world-map/pull/5#issuecomment-1779824353) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
+2. ❌ Closed PR [#770](https://github.com/swirlai/swirl-search/pull/770) in [swirlai/swirl-search](https://github.com/swirlai/swirl-search)
+3. ❌ Closed PR [#566](https://github.com/haotian-liu/LLaVA/pull/566) in [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)
+4. ❌ Closed PR [#2046](https://github.com/30-seconds/30-seconds-of-code/pull/2046) in [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+5. ❌ Closed PR [#813](https://github.com/WeMakeDevs/wemakedevs/pull/813) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 <!--END_SECTION:activity-->
 
 <hr>
