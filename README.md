@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/malivinayak/world-map/pull/5#issuecomment-1779824353) in [malivinayak/world-map](https://github.com/malivinayak/world-map)
-2. ❌ Closed PR [#770](https://github.com/swirlai/swirl-search/pull/770) in [swirlai/swirl-search](https://github.com/swirlai/swirl-search)
-3. ❌ Closed PR [#566](https://github.com/haotian-liu/LLaVA/pull/566) in [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)
-4. ❌ Closed PR [#2046](https://github.com/30-seconds/30-seconds-of-code/pull/2046) in [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-5. ❌ Closed PR [#813](https://github.com/WeMakeDevs/wemakedevs/pull/813) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
+1. ❌ Closed PR [#57](https://github.com/Namya13Jain/CPP_Guide/pull/57) in [Namya13Jain/CPP_Guide](https://github.com/Namya13Jain/CPP_Guide)
+2. 🗣 Commented on [#57](https://github.com/Namya13Jain/CPP_Guide/pull/57#issuecomment-1784726252) in [Namya13Jain/CPP_Guide](https://github.com/Namya13Jain/CPP_Guide)
+3. ❌ Closed PR [#2739](https://github.com/illacloud/illa-builder/pull/2739) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+4. ❌ Closed PR [#2](https://github.com/Deepansh04/Simple-Resume/pull/2) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+5. 🗣 Commented on [#2](https://github.com/Deepansh04/Simple-Resume/pull/2#issuecomment-1784723758) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
 <!--END_SECTION:activity-->
 
 <hr>
