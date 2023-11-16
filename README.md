@@ -139,11 +139,11 @@
 
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#57](https://github.com/Namya13Jain/CPP_Guide/pull/57) in [Namya13Jain/CPP_Guide](https://github.com/Namya13Jain/CPP_Guide)
-2. 🗣 Commented on [#57](https://github.com/Namya13Jain/CPP_Guide/pull/57#issuecomment-1784726252) in [Namya13Jain/CPP_Guide](https://github.com/Namya13Jain/CPP_Guide)
-3. ❌ Closed PR [#2739](https://github.com/illacloud/illa-builder/pull/2739) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
-4. ❌ Closed PR [#2](https://github.com/Deepansh04/Simple-Resume/pull/2) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
-5. 🗣 Commented on [#2](https://github.com/Deepansh04/Simple-Resume/pull/2#issuecomment-1784723758) in [Deepansh04/Simple-Resume](https://github.com/Deepansh04/Simple-Resume)
+1. 🗣 Commented on [#2240](https://github.com/illacloud/illa-builder/pull/2240#issuecomment-1807231834) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+2. 🗣 Commented on [#2238](https://github.com/illacloud/illa-builder/pull/2238#issuecomment-1807231799) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+3. ❌ Closed PR [#57](https://github.com/Namya13Jain/CPP_Guide/pull/57) in [Namya13Jain/CPP_Guide](https://github.com/Namya13Jain/CPP_Guide)
+4. 🗣 Commented on [#57](https://github.com/Namya13Jain/CPP_Guide/pull/57#issuecomment-1784726252) in [Namya13Jain/CPP_Guide](https://github.com/Namya13Jain/CPP_Guide)
+5. ❌ Closed PR [#2739](https://github.com/illacloud/illa-builder/pull/2739) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
 <!--END_SECTION:activity-->
 
 <hr>
