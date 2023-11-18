@@ -148,13 +148,13 @@
 
 <hr>
 
-### Currently Working On : Line-Coding-Waves [Deployment](https://malivinayak.github.io/Line-Coding-Waves/)
+### Currently Working On : Something
 
 <hr>
 
-[![An image of @malivinayak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/malivinayak)](https://holopin.io/@malivinayak)
-
 <div align="center">
+
+<a href="https://www.buymeacoffee.com/malivinayak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Show some ❤️ by starring some of the repositories!
 
